@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hw-lifecycle-http-watches/static/css/main.da110fe5.css",
+    "main.js": "/react-hw-lifecycle-http-watches/static/js/main.6298cdcb.js",
+    "static/js/787.9b541b66.chunk.js": "/react-hw-lifecycle-http-watches/static/js/787.9b541b66.chunk.js",
+    "index.html": "/react-hw-lifecycle-http-watches/index.html",
+    "main.da110fe5.css.map": "/react-hw-lifecycle-http-watches/static/css/main.da110fe5.css.map",
+    "main.6298cdcb.js.map": "/react-hw-lifecycle-http-watches/static/js/main.6298cdcb.js.map",
+    "787.9b541b66.chunk.js.map": "/react-hw-lifecycle-http-watches/static/js/787.9b541b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da110fe5.css",
+    "static/js/main.6298cdcb.js"
+  ]
+}
